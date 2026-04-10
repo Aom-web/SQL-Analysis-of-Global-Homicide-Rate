@@ -42,3 +42,5 @@ I changed the homicide rate in the original data set to % and reduced the decima
 # Created Slicers for each
 ![16](https://github.com/user-attachments/assets/848bf7e6-b801-4e06-963c-8553eea643b0)
 
+# DASHBOARD
+![17](https://github.com/user-attachments/assets/8ec250ad-656b-40b8-a915-3855b9e604a7)
