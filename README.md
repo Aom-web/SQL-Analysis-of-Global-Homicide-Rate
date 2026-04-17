@@ -35,11 +35,11 @@ I changed the homicide rate in the original data set to % and reduced the decima
 ![13](https://github.com/user-attachments/assets/1e77399e-cb03-4ea7-969c-b25011dca7ff)
 
 ## DASHBOARD VISUALIZATION IN EXCEL
-### Copied table gotten from question 10, 11 & 12 into excel and designed it
+### Step 1: Copied table gotten from question 10, 11 & 12 into excel and designed it
 ![14](https://github.com/user-attachments/assets/5998c4ab-0e50-46c9-a2ea-39fc94edaa1f)
-### Created a pivot table for each
+### Step 2: Created a pivot table for each
 ![15](https://github.com/user-attachments/assets/97b4bfb9-eaa8-435f-93a7-2473e43a75f6)
-### Created Slicers for each
+### Step 3: Created Slicers for each
 ![16](https://github.com/user-attachments/assets/848bf7e6-b801-4e06-963c-8553eea643b0)
 
 ## DASHBOARD
