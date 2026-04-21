@@ -100,3 +100,5 @@ LIMIT 1;
 <img width="207" height="58" alt="7" src="https://github.com/user-attachments/assets/225200f5-15ae-4315-b197-cb3d40c81eda" />
 
 ## DASHBOARD VISUALIZATION IN EXCEL
+
+<img width="1308" height="639" alt="AVERAGE HOMICIDE RATE" src="https://github.com/user-attachments/assets/db8388e5-c312-48a6-a75f-c9fe64a98677" />
